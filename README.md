@@ -44,8 +44,12 @@ Metrics used to evaluate models:
 
 **Best Model**: Logistic Regression  
 **Tuned Hyperparameters**:  
+
 ```python
 { 'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear' }
+```
+
+---
 
 | Metric       | Score |
 |--------------|-------|
