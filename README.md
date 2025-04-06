@@ -1,4 +1,4 @@
-r# 📊 Customer Churn Prediction
+📊 Customer Churn Prediction
 
 This project predicts customer churn using a supervised machine learning approach for a telecom company. While this dataset comes from the telecom industry, the methodology and techniques demonstrated here are **scalable and adaptable to any industry** where customer retention is vital—such as finance, insurance, SaaS, e-commerce, and beyond. 
 
@@ -88,5 +88,5 @@ Below are the top 10 most influential features based on the two best models:
 ## 👨🏽‍💻 Author
 
 **Patrick Onuoha Jr.**  
-Data Science Student @ University of North Texas  
+Data Science Senior @ University of North Texas  
 🔗 [GitHub](https://github.com/TheDataTenno) | 📧 [Email](mailto:ponuoha2017@gmail.com) | 🧠 Passionate about building data-driven solutions that scale across industries.
